@@ -5,5 +5,5 @@ import { Component } from '@angular/core'
   template: `<div>Hello {{ angular }}</div>`
 })
 export class EventsAppComponent {
-	angular = "Angular 2";
+	angular = "Angular 2 Quick Start";
 }
